@@ -1,9 +1,5 @@
- {
+{
     "urls": [
-        {
-            "url": "clan://localhost/tvbox/本地.json",
-            "name": "我的本地包"
-        },
         {
             "url": "http://xn--4bra.live/%E7%8C%AB",
             "name": "4K"
@@ -11,10 +7,6 @@
         {
             "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
             "name": "星辰"
-        },
-       {
-            "url": "https://5848531ky0.oicp.vip/TVBox/t4%20%281%29.json",
-            "name": "T4"
         },
         {
             "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
@@ -124,46 +116,46 @@
             "name": "suanjin",
             "time": "2022-08-26 02:00:00"
         },
-        // {
-        //     "url": "https://gitea.com/videojx/zyk/raw/branch/main/xuexi.json",
-        //     "name": "学习平板"
-        // },
-        // {
-        //     "url": "http://mtv.weetai.cn/mtv/260.txt",
-        //     "name": "260.txt"
-        // },
+         {
+             "url": "https://gitea.com/videojx/zyk/raw/branch/main/xuexi.json",
+             "name": "学习平板"
+         },
+         {
+             "url": "http://mtv.weetai.cn/mtv/260.txt",
+             "name": "260.txt"
+         },
         {
             "url": "http://118.107.41.200:8888/down/5jjLeRDhRj26",
             "name": "app里提取"
         }
-        // {
-        //     "url": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
-        //     "name": "XC.json"
-        // },
-        // {
-        //     "url": "https://gitea.com/nb/kls/raw/branch/master/a9.json",
-        //     "name": "a9.json"
-        // },
-        // {
-        //     "url": "https://gitea.com/hfr1107/TVBox/raw/branch/main/sc.json",
-        //     "name": "sc.json"
-        // },
-        // {
-        //     "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-        //     "name": "meowcf.json"
-        // },
-        // {
-        //     "url": "https://liucn.cc/box/m.json",
-        //     "name": "m.json"
-        // },
-        // {
-        //     "url": "https://wds.ecsxs.com/223843.txt",
-        //     "name": "223843.txt"
-        // },
-        // {
-        //     "url": "http://home.jundie.top:81/668.json",
-        //     "name": "668.json"
-        // }
+         {
+            "url": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
+             "name": "XC.json"
+        },
+         {
+             "url": "https://gitea.com/nb/kls/raw/branch/master/a9.json",
+             "name": "a9.json"
+        },
+         {
+             "url": "https://gitea.com/hfr1107/TVBox/raw/branch/main/sc.json",
+             "name": "sc.json"
+         },
+         {
+             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+             "name": "meowcf.json"
+         },
+         {
+             "url": "https://liucn.cc/box/m.json",
+             "name": "m.json"
+         },
+         {
+             "url": "https://wds.ecsxs.com/223843.txt",
+             "name": "223843.txt"
+         },
+         {
+            "url": "http://home.jundie.top:81/668.json",
+             "name": "668.json"
+        }
     ],
     "vip": [
         {
