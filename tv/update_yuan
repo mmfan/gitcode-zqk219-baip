@@ -4,10 +4,10 @@
             "url": "http://xn--4bra.live/%E7%8C%AB",
             "name": "4K"
         },
-        {
-            "url": "clan://localhost/tvbox/本地.json",
-            "name": "我的本地包"
-        },
+       // {
+       //     "url": "clan://localhost/tvbox/本地.json",
+       //     "name": "我的本地包"
+      //  },
         {
             "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
             "name": "星辰"
