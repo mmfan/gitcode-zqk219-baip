@@ -1,7 +1,6 @@
-
 {
 	//地址：https://gitcode.net/zqk219/baip/-/raw/main/tv/18.json
-		"spider": "https://gitcode.net/zqk219/baip/-/raw/main/tv/jar/0811.jar;md5;96EBCE7EA9DC66AE70614B280DCE5D40",
+		"spider": "https://gitcode.net/zqk219/baip/-/raw/main/tv/jar/0903.jar;md5;96EBCE7EA9DC66AE70614B280DCE5D40",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
