@@ -4,10 +4,7 @@
             "url": "http://刚刚.live/猫",
             "name": "🕍默认线路"
         },
-        {
-            "url": "clan://localhost/tvbox/本地.json",
-            "name": "本地包，先允许存取文件"
-        },
+        
         {
             "url": "https://gitcode.net/zqk219/baip/-/raw/main/tv/18.json",
             "name": "老司机1"
