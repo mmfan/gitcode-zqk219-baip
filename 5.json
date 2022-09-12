@@ -1,10 +1,14 @@
 {
     "urls": [
         {
-            "url": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
+            "url": "https://agit.ai/zqk219/baip/raw/branch/master/tv.json",
             "name": "🕍默认线路"
         },
-        
+        {
+            "url": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
+            "name": "🕍Yoursmile"
+        },
+
         {
             "url": "https://gitcode.net/zqk219/baip/-/raw/main/tv/18.json",
             "name": "老司机1"
