@@ -92,7 +92,7 @@
 {"name":"Json轮询","type":2,"url":"Sequence"}
 ],
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jeDM0MjY2Mi5naXRodWIuaW8vd3kxOC50eHQ="]}]}],
-"spider":"https://gitea.com/houxian/json/raw/branch/master/jar/my_spider.jar",
+"spider":"https://agit.ai/zqk219/baip/raw/branch/master/jar/0917.jar",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
