@@ -8,7 +8,7 @@
             "url": "clan://localhost/tvbox/本地.json",
             "name": "本地包，先允许存取文件"
         },
-        //{"url": "https://agit.ai/zqk219/baip/raw/branch/master/tv.json","name": "小可爱"},
+        
         {
             "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
             "name": "💒家庭FASTGIT"
