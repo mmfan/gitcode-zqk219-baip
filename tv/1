@@ -8,7 +8,7 @@
             "url": "clan://localhost/tvbox/本地.json",
             "name": "本地包，先允许存取文件"
         },
-        {"url": "https://agit.ai/zqk219/baip/raw/branch/master/tv.json","name": "小可爱"},
+        //{"url": "https://agit.ai/zqk219/baip/raw/branch/master/tv.json","name": "小可爱"},
         {
             "url": "http://43.139.29.179:5705/config/2",
             "name": "🕍道长T4"
